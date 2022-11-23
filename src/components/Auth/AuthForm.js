@@ -5,7 +5,7 @@ import { useHistory } from "react-router-dom";
 
 import classes from "./AuthForm.module.css";
 
-export const API_KEY = "AIzaSyBojoKLqlavja7aEZcV9tZI6tmanGYlABw";
+import { API_KEY } from "../../apiKey/key";
 
 const AuthForm = () => {
   const history = useHistory();
