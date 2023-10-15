@@ -9,12 +9,13 @@ Click 'Create new account' to register a new account.
 Provide your email and password. Now you can log in to your profile.
 
 1.Run npm install to install dependencies.
+
 2.Run npm start to start the development server.
 
-Technologies Used
+## Technologies Used
 
 React JavaScript CSS
 
-# Credits
+## Credits
 
 This website was created by Tomasz Bielicki.
